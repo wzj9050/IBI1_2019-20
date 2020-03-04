@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+Monkeys.
+I like pears.
+Bananas.
+Dolphins.
+=======
+Do not like apples
+Earth.
+Nature.
+Happiness.
+>>>>>>> SongCheng
+BMI.
+ZJU.
+UoE.
+ZJE.
+World.
+Intl Campus.
+<<<<<<< HEAD
+World. Very much.
+=======
+People.
+Nation.
+>>>>>>> SongCheng
