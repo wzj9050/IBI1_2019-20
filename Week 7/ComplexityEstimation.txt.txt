@@ -1,0 +1,11 @@
+First, the code examines the input integers by counting '.' and transforming the string into int to compare with (0,24). 
+In this section, the algorithm complexity is O(n) * 3 = O(n), where n is the quantity of numbers.
+Second, merge two numbers every time. In the first merging, the possible arranges are C(n,2) = (n^n-n)/2.
+Each merging has four operation with 6 branches. So the time complexity is (n^n-n)/2 * 6 = 3(n^n-n) = O(n^2).
+Complete the merging need (n-1) times.
+So in this section, the complexity is O(n^(2(n-1))) = O(n^n)
+All possible calculation results of the input numbers are appended into a list.
+The code goes through the list to search for 24.
+Suppose that all possible formulations have different solutions.
+In this section, the complexity equals to the second section, O(n^n).
+In conclusion, the algorithm complexity is O(n) + O(n^n) + O(n^n) = O(n^n)
