@@ -69,8 +69,7 @@ def operations(a,b,oper):#Define a function to do the four operations, +/-/*//
                 return c
             if oper == 5:
                 c = b/a
-                return c
-            
+                return c          
         else:
             oper = random.choice([1,2,3])#If a == b ==0, do a operation from +/-/*
             if oper==1:
