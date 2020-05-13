@@ -1,0 +1,6 @@
+Q: How have new cases and total cases developed over time in Spain? 
+A: The code starts from row 66.
+The total cases and new cases were plain and nearly 0 from the beginning to 3.8.
+The total cases and new cases began to increase on 3.8.
+The growth rate of total cases was increasing until 3.27, when the new cases began to decrease.
+The new cases grew with fluctuation steady and got a higher growth rate on 3.24 after a local peak on 3.22.
