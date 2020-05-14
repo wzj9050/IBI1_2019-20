@@ -1,0 +1,7 @@
+In this practical, the obstacle is the 2D spread model.
+np.where() is not helpful as expected. On the contrast, I found a new pathway to infect the neighbors: 
+pass the matrix of the population and uptake the susceptible point adjacent with infected points.
+I used the mediate values for the new cases and  passed susceptible ones to divide the time point.
+What struck me most was the type of syntaxes returning.
+I did not know the array[index] returned float, which interrupted many sections using int.
+And it is really hard to correct all these bugs.

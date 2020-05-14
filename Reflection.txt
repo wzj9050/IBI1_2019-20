@@ -1,1 +1,0 @@
-The first clone of Repo did not work, but I just refreshed the GitHub and restart my GitKraken, which made everything go well.
