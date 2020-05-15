@@ -1,0 +1,5 @@
+Practical 4:The first clone of Repo did not work, but I just refreshed the GitHub and restart my GitKraken, which made everything go well.
+
+Practical 10: Although not the requirement of the practical, I gained the ability to produce random polypeptides.
+Practical 13: The most difficulty is infected the neighbors. But I solve it by reversing the resoning: check the number of adjacent infected people aroung a susceptible man and random.choice for him/her.
+Practical 14: The panda module using need more exercise. The export of the Excel Table was under the reference in the Internet and with the help from calssmates.
