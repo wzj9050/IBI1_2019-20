@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer: Produce prime number in range(2,100).
+# Answer: Produce prime number in range(2,100) and 1.
 
 # Import libraries
 # randint allows drawing a random number, 
